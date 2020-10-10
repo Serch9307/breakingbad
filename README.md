@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Consume Api Breaking bad
+link [Breaking bad](http://breaking-bad-quotes.herokuapp.com/v1/quotes) to get a new phrase
+
 ## Available Scripts
 
 In the project directory, you can run:
