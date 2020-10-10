@@ -1,7 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Consume Api Breaking bad
-link [Breaking bad](http://breaking-bad-quotes.herokuapp.com/v1/quotes) to get a new phrase
+## Web Site: Breaking bad
+link [Breaking bad](https://loving-pare-d1081e.netlify.app/) to get a new phrase
+
+## Api Breaking bad
+link [API](http://breaking-bad-quotes.herokuapp.com/v1/quotes) to get a new phrase
 
 ## Available Scripts
 
